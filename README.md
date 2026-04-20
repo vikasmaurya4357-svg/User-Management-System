@@ -1,4 +1,4 @@
-# curly-octo-fiesta
+# User Management System
 A Spring Boot REST API for managing users with full CRUD operations, built using Java, Spring Data JPA, and MySQL.
 
 #  User Management System - Spring Boot
